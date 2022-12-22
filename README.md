@@ -13,4 +13,4 @@ Dari permasalahan tersebut, harapannya sebagai data scientist dapat menghasilkan
 Membuat model machine learning yang mampu memprediksi calon nasabah yang akan subscribe ataupun tidak untuk mengoptimalkan marketing campaign deposito. Adapun untuk mengetahui metrik terbaik pada model machine learning agar dapat memberikan prediksi sesuai tujuan pembuatannya, maka pada notebook ini dilakukan perhitungan cost & revenue terlebih dahulu.
 
 ### Metric Evaluation :
-Berdasarkan pada konsekuensi kedua tipe error beserta hasil perhitungan cost dan revenue diputuskan bahwa model menggunakan metrik Precision.
+Berdasarkan pada konsekuensi tipe error beserta hasil perhitungan cost dan revenue diputuskan bahwa model menggunakan metrik Precision.
